@@ -1,0 +1,12 @@
+[
+  { "name": "Category: Deployment", "color": "FF5733" },
+  { "name": "Category: Documentation", "color": "33FF57" },
+  { "name": "Category: Feature Enhancement", "color": "5733FF" },
+  { "name": "Category: Data Processing", "color": "FF33A1" },
+  { "name": "Category: Testing", "color": "FFD733" },
+  { "name": "Category: Data Management", "color": "33D1FF" },
+  { "name": "Category: Integration", "color": "FF7733" },
+  { "name": "Category: UI/UX", "color": "A633FF" },
+  { "name": "Category: Performance", "color": "33FFA6" },
+  { "name": "Category: Security", "color": "FF3357" }
+]

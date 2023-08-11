@@ -1,0 +1,18 @@
+{
+  "config": {
+    "repo_owner": "chrismannina",
+    "repo_name": "gh-toolkit"
+  },
+  "issues": [
+    {
+      "title": "Enhance Logging Capabilities",
+      "body": "Incorporate advanced logging to capture events, errors, and other significant operations.",
+      "labels": ["Priority: Medium", "Category: Enhancement"]
+    },
+    {
+      "title": "Documentation Overhaul",
+      "body": "Review and enhance the existing documentation, ensuring clarity and completeness.",
+      "labels": ["Priority: Low", "Category: Documentation"]
+    }
+  ]
+}
